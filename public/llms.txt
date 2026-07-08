@@ -1,0 +1,70 @@
+# Elinor nails — Generative Engine Optimization Map
+
+> היי אני רוצה לעשות דף נחיתה
+
+---
+
+## Pages
+
+### בית
+https://elinor-nails-ac78032c.zappy5.app
+מחפשת מניקור ופדיקור מקצועי שיהפוך את הציפורניים שלך לחלום? ב-Elinor nails תמצאי נייל ארט עיצובי ציפורניים, טיפולי יוקרה וציפורניים לכלה ברמה אחרת. קבעי תור עכשיו ותתחילי לזרוח!
+
+### תודה - Elinor nails
+https://elinor-nails-ac78032c.zappy5.app/thank-you
+Elinor nails - תודה - Elinor nails
+
+## Legal & Policy
+
+### Privacy Policy
+https://elinor-nails-ac78032c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://elinor-nails-ac78032c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://elinor-nails-ac78032c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://elinor-nails-ac78032c.zappy5.app
+- Endpoint: https://elinor-nails-ac78032c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Elinor nails
+היי אני רוצה לעשות דף נחיתה
+
+## Target Audience
+- נשים צעירות חובבות יופי
+- מקצועניות עובדות מקומיות
+- כלות לעתיד
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://elinor-nails-ac78032c.zappy5.app/sitemap.xml
+- Robots: https://elinor-nails-ac78032c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://elinor-nails-ac78032c.zappy5.app/llms-full.txt
