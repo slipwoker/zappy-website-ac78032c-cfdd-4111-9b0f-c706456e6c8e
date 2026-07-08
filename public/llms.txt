@@ -35,7 +35,7 @@ Information about WCAG compliance and accessibility features.
 - Email: Elinorabosh26@gmail.com
 - Phone: 0527241062
 - Phone (tel): tel:0527241062
-- Address: מבצע סיני 4, בת ים, ישראל
+- Address: מבצע סיני 4, בת ים, מרכז, 5951106, ישראל
 
 ### Contact form
 - URL: https://example.com
