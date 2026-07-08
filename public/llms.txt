@@ -32,9 +32,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
+- Email: Elinorabosh26@gmail.com
 - Phone: 0527241062
 - Phone (tel): tel:0527241062
-- Address: מבצע סיני 4, בת ים
+- Address: מבצע סיני 4, בת ים, ישראל
 
 ### Contact form
 - URL: https://example.com
